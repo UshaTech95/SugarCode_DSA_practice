@@ -1,4 +1,4 @@
-package practice.linkedlists;
+package practice.linkedlist;
 
 public class deleteNode {
     public static LinkNode Delete(LinkNode head, int pos){

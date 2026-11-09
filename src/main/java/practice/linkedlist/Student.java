@@ -1,4 +1,4 @@
-package practice.linkedlists;
+package practice.linkedlist;
 
 public class Student {
     int id;

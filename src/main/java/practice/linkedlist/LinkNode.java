@@ -1,4 +1,4 @@
-package practice.linkedlists;
+package practice.linkedlist;
 
 public class LinkNode {
     public int val;

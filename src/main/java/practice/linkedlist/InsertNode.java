@@ -1,4 +1,4 @@
-package practice.linkedlists;
+package practice.linkedlist;
 
 public class InsertNode {
     public static LinkNode insert(LinkNode head, int val, int pos) {
